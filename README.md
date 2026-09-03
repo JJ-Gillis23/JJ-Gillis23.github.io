@@ -4,7 +4,7 @@ Personal portfolio website built with [Hugo](https://gohugo.io/) and the [Blowfi
 
 ## 🌐 Live Site
 
-👉 **[JJ-Gillis23.github.io](https://JJ-Gillis23.github.io/Portfolio)**
+👉 **[JJ-Gillis23.github.io](https://JJ-Gillis23.github.io)**
 
 ## Built With
 
