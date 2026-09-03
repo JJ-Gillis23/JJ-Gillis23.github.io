@@ -7,14 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Game-Dev</title>
-      <link>http://localhost:1313/tags/game-dev/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <title>C#</title>
+      <link>http://localhost:1313/tags/c%23/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/game-dev/</guid>
+      <guid>http://localhost:1313/tags/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game Design</title>
+      <link>http://localhost:1313/tags/game-design/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/game-design/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game Development</title>
+      <link>http://localhost:1313/tags/game-development/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/game-development/</guid>
       <description></description>
       
     </item>
@@ -22,9 +42,29 @@
     <item>
       <title>Research</title>
       <link>http://localhost:1313/tags/research/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/tags/unity/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/unity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game-Dev</title>
+      <link>http://localhost:1313/tags/game-dev/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/game-dev/</guid>
       <description></description>
       
     </item>
@@ -100,16 +140,6 @@
     </item>
     
     <item>
-      <title>JavaFX</title>
-      <link>http://localhost:1313/tags/javafx/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/javafx/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Leadership</title>
       <link>http://localhost:1313/tags/leadership/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -120,21 +150,21 @@
     </item>
     
     <item>
-      <title>OOP</title>
-      <link>http://localhost:1313/tags/oop/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/oop/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Data-Structures</title>
       <link>http://localhost:1313/tags/data-structures/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/data-structures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>http://localhost:1313/tags/oop/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/oop/</guid>
       <description></description>
       
     </item>

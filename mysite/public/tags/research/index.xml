@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video Game Development Summer Research</title>
@@ -15,6 +15,16 @@
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/experience/game-dev-research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Summer Research Nonviolent First-Person Shooter</title>
+      <link>http://localhost:1313/projects/nonviolent-fps/</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/nonviolent-fps/</guid>
       <description></description>
       
     </item>
