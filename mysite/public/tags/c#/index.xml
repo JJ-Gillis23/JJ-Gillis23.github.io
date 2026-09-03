@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C# on HomePage</title>
-    <link>http://localhost:1313/tags/c%23/</link>
+    <link>http://JJ-Gillis23.github.io/tags/c%23/</link>
     <description>Recent content in C# on HomePage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 JJ Gillis</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://JJ-Gillis23.github.io/tags/c%23/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Summer Research Nonviolent First-Person Shooter</title>
-      <link>http://localhost:1313/projects/nonviolent-fps/</link>
+      <link>http://JJ-Gillis23.github.io/projects/nonviolent-fps/</link>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/nonviolent-fps/</guid>
+      <guid>http://JJ-Gillis23.github.io/projects/nonviolent-fps/</guid>
       <description></description>
       
     </item>
